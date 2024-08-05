@@ -1,5 +1,7 @@
 version: STSv1
 mode: enforce
 mx: barracuda.colchsfc.ac.uk
+mx: d239803.a.ess.uk.barracudanetworks.com
+mx: d239803.b.ess.uk.barracudanetworks.com
 mx: *.mail.protection.outlook.com
 max_age: 1209600
